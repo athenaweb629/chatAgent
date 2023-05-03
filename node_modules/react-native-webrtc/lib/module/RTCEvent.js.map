@@ -1,0 +1,1 @@
+{"version":3,"sources":["RTCEvent.ts"],"names":["RTCEvent","constructor","type","toString"],"mappings":";;AACA,eAAe,MAAMA,QAAN,CAAe;AAE1BC,EAAAA,WAAW,CAACC,IAAD,EAAO;AAAA;;AACd,SAAKA,IAAL,GAAYA,IAAI,CAACC,QAAL,EAAZ;AACH;;AAJyB","sourcesContent":["\nexport default class RTCEvent {\n    type: string;\n    constructor(type) {\n        this.type = type.toString();\n    }\n}\n"]}

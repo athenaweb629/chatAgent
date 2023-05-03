@@ -1,0 +1,1 @@
+{"version":3,"sources":["ScreenCapturePickerView.ts"],"names":["requireNativeComponent"],"mappings":"AACA,SAASA,sBAAT,QAAuC,cAAvC;AAEA,eAAeA,sBAAsB,CAAC,yBAAD,CAArC","sourcesContent":["\nimport { requireNativeComponent } from 'react-native';\n\nexport default requireNativeComponent('ScreenCapturePickerView');\n"]}

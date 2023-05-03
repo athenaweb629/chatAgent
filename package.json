@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-native-gifted-chat": "^2.0.1",
+    "react-native-webrtc": "^111.0.0",
+    "socket.io-client": "^4.6.1"
+  }
+}
